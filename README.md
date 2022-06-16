@@ -65,7 +65,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![multivariate linear regression model for sales prediction](sam.png)
+![output](./images/output.png)
 
 
 ## Result:
